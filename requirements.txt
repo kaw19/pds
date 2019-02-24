@@ -1,3 +1,4 @@
-numpy==1.16.*
-pyaudio=0.2.9.*
-scipy=0.14.*
+numpy
+pyaudio
+scipy
+matplotlib
