@@ -1,5 +1,5 @@
-# pds
-Material sobre Processamento Digital de Sinais
+# PDS
+Material de estudo sobre Processamento Digital de Sinais.
 
 Se você está lendo este caderno no meu blog, eu recomendo fortemente que você experimente a versão interativa no **mybinder.org**, que usa um contêiner **docker** para possibilitar o compartilhamento de um caderno interativo.
 
